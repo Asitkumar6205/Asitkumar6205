@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [rocket.chat](https://github.com/RocketChat/Rocket.Chat)
 
-- 🌱 I’m currently learning **Typescript, Svelte, LLD**
+- 🌱 I’m currently learning **Typescript, Svelte, ElectronJS**
 
 - 👨‍💻 All of my projects are available at [https://asitkr-portfolio.netlify.app/](https://asitkr-portfolio.netlify.app/)
 

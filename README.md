@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/asitkumarkh" target="blank"><img src="https://img.shields.io/twitter/follow/asitkumarkh?logo=twitter&style=for-the-badge" alt="asitkumarkh" /></a> </p>
 
-- 🔭 I’m currently working on [rocket.chat](https://github.com/RocketChat/Rocket.Chat)
-
-- 🌱 I’m currently learning **Typescript, Svelte, ElectronJS**
+- 🔭 I’m currently working on [mednight](https://github.com/Asitkumar6205/Mednight)
 
 - 👨‍💻 All of my projects are available at [https://asitkr-portfolio.netlify.app/](https://asitkr-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN, WebRTC**
+- 💬 Ask me about **Full Stack Web Technologies | Networking & Communication | Cloud & DevOps Technologies | Software Architecture Design & Testing**
 
 - 📫 How to reach me **sdeasit2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FCDjikoq-YuT6ZCCB0JmwjAp7dpSN7YG/view?usp=drive_link](https://drive.google.com/file/d/1FCDjikoq-YuT6ZCCB0JmwjAp7dpSN7YG/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link](https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 

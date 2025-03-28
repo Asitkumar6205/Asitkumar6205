@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on [mednight](https://github.com/Asitkumar6205/Mednight)
 
-- 👨‍💻 All of my projects are available at [https://asitkr-portfolio.netlify.app/](https://asitkr-portfolio.netlify.app/)
-
 - 💬 Ask me about **Full Stack Web Technologies | Networking & Communication | Cloud & DevOps Technologies | Software Architecture Design & Testing**
 
 - 📫 How to reach me **sdeasit2@gmail.com**

@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/asitkumarkh" target="blank"><img src="https://img.shields.io/twitter/follow/asitkumarkh?logo=twitter&style=for-the-badge" alt="asitkumarkh" /></a> </p>
 
-- 🔭 I’m currently working on [MedKnight](https://github.com/Asitkumar6205/Mednight)
+- 🔭 I’m currently working on [MedKnight](https://github.com/Asitkumar6205/MedKnight)
 
 - 💬 Ask me about **Full Stack Web Technologies | Networking & Communication | Cloud & DevOps Technologies | Software Architecture Design & Testing**
 

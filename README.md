@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **sdeasit2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link](https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link](https://drive.google.com/file/d/1iN5gctGvX04bkHRy_3eKWOO0OU35czTm/view?usp=drive_link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asitkumarkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asitkumarkh" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/asitkumarkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asitkumarkh" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/asit-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asit-kr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16648529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16648529" height="30" width="40" /></a>
 <a href="https://fb.com/aashitkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashitkr" height="30" width="40" /></a>

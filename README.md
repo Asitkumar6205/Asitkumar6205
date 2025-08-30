@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Asit Kumar</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyJFTroNngQAAAAm/coding.webp">
 
 
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=asitkumar6205" alt="asitkumar6205" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyJFTroNngQAAAAm/coding.webp">
   </a> 
 </p>
 

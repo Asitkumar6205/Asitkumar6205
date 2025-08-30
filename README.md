@@ -71,8 +71,8 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://asitkumar6205.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</p> -->

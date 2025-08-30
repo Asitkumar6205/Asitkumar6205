@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asit Kumar</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-10602112677214789124">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyJFTroNngQAAAAm/coding.webp">
 
 
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asit Kumar</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447153">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-10602112677214789124">
 
 
 

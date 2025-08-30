@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MedKnight](https://github.com/Asitkumar6205/MedKnight)
 
-- 💬 Ask me about **Full Stack Web Technologies | Networking & Communication | Cloud & DevOps Technologies | Software Architecture Design & Testing**
+- 💬 Ask me about **Full Stack Technologies | AI Integration & Processing | Cloud & DevOps Technologies | Software Architecture Design & Testing | Performance Optimization | Security Hardening**
 
 - 📫 How to reach me **sdeasit2@gmail.com**
 
